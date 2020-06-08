@@ -1,0 +1,2 @@
+# cartasadobesAsset
+assetAdobesCartas
